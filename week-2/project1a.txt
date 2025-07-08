@@ -1,0 +1,31 @@
+Develop the pseudocode and flowchart for store checkout after purchase
+
+
+
+START  
+1. Initialize total_price to 0  
+2. Initialize cart as an empty list  
+3. WHILE user wants to add items  
+   a. Input item_name, item_price, and quantity  
+   b. Calculate item_total = item_price * quantity  
+   c. Add item_total to total_price  
+   d. Add item details to cart  
+4. Display all items in cart and their total cost  
+5. Apply discounts if applicable  
+6. Calculate final price with tax  
+7. Display total amount to be paid  
+8. Input payment method (Cash/Card)  
+9. IF payment method is Cash  
+   a. Input cash received  
+   b. Calculate change = cash received - final price  
+   c. Display change  
+10. ELSE IF payment method is Card  
+   a. Process card payment  
+   b. Display payment success message  
+11. Generate receipt  
+12. Thank the customer  
+END  
+
+
+
+FLOWCHART IS THE COPY_OF_START.PDF FILE

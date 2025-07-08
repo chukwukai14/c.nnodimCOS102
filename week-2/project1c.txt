@@ -1,0 +1,14 @@
+Algorithm to Swap Ages of Two People
+
+Input:
+	•	Name1, Age1
+	•	Name2, Age2
+
+Steps:
+	1.	Start
+	2.	Input Name1 and Age1
+	3.	Input Name2 and Age2
+	4.	Swap the values of Age1 and Age2
+	5.	Output Name1 with the new Age1
+	6.	Output Name2 with the new Age2
+	7.	End
